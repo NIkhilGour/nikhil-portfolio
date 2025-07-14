@@ -1,0 +1,113 @@
+{
+  "name_and_link": ["Nikhil Gour", "https://github.com/NIkhilGour"],
+  "designation": [
+    "IT Graduate.",
+    "Flutter Developer.",
+    "Java Spring Boot Developer"
+  ],
+  "resume_download_link": "https://drive.google.com/file/d/1SV1ObBsSHZUIz1MOD1lmwEozO-QyQpyj/view?usp=drive_link",
+  "social_media": {
+    "1": ["https://github.com/NIkhilGour/", "github"],
+    "2": ["https://leetcode.com/nikhilgour513/", "leetcode"],
+    "3": ["https://www.linkedin.com/in/nikhil-gour/", "linkedin"],
+    "4": [
+      "https://www.instagram.com/_nikhilgour?igsh=MTlzb2JlY2I0MmJuaw==",
+      "instagram"
+    ],
+    "5": ["mailto:nikhilgour513@gmail.com", "email"]
+  },
+  "contact_me": {
+    "location": "Indore, India",
+    "open_for_opportunities": "Yes",
+    "picture": "picture.jpg"
+  },
+  "about": "👨‍💻 Flutter & Backend Developer | 🚀 Building full-stack apps from idea to execution | ❤️ Clean UI & Scalable APIs",
+  "bio": "👨‍💻 Flutter & Backend Developer passionate about building end-to-end mobile apps and scalable backend systems. Experienced with Flutter 🧩, Firebase 🔥, and Spring Boot 🌱 — turning ideas into full-stack products with clean UI and robust architecture.  B.Tech (IT) graduate with hands-on project experience, hackathon participation, and a drive to create meaningful digital solutions 🚀.",
+  "what_i_do": {
+    "tools": [
+      "flutter.png",
+      "java.png",
+      "spring-boot.png",
+      "cpp.png",
+      "mysql.png",
+      "firebase.png",
+      "android.png",
+      "ios.png",
+      "docker.png",
+
+      "git.png"
+    ],
+    "proficiency": [
+      "Flutter--70",
+      "C++--80",
+      "Java/Spring Boot--60",
+      "Firebase/MySQL--70",
+      "Docker--50",
+      "Git--65"
+    ]
+  },
+  "education": {
+    "1": {
+      "institute": "Jabalpur Engineering College",
+      "location": "Jabalpur",
+      "years": "2021 - 2025",
+      "description": "B.Tech in IT",
+      "grades": "7.89 GPA",
+      "logo": "jec.png"
+    }
+  },
+  "experience": {
+    "1": {
+      "name": "Pixamentory",
+      "role": "Flutter SDE Intern",
+      "period": "November, 2024 - February, 2025",
+      "description": "Working in the app team for multigaming platform.",
+      "image_name": ""
+    },
+    "2": {
+      "name": "TechTesser",
+      "role": "Flutter SDE Intern",
+      "period": "February, 2024 - April, 2024",
+      "description": "Worked in the Flutter App Dev Team.",
+      "image_name": "techtesser.jpg"
+    }
+  },
+  "projects": {
+    "1": {
+      "name": "DevConnect",
+      "tech_stack_used": "Flutter (Frontend), Spring Boot with MySQL (Backend)",
+      "description": "A developer-centric platform enabling users to create profiles, publish posts, connect with other developers, form permanent project-based groups, and engage in group chats. Features include real-time updates, skill-based post creation, file sharing, and secure JWT-based authentication.",
+      "general_or_github_link": "https://github.com/NIkhilGour/DevConnect-frontend"
+    },
+    "2": {
+      "name": "Ayurvan - A Virtual Herbal Garden",
+      "tech_stack_used": "Flutter, Firebase, OpenAI",
+      "description": "An educational app featuring a virtual herbal garden with 3D plant models, AI chatbot (AyushAI), search and filter functionalities, and personalized notes. Includes user authentication, favorite management, and feedback submission.",
+      "general_or_github_link": "https://github.com/NIkhilGour/SIH24"
+    },
+    "3": {
+      "name": "NewsApp - Khabar",
+      "tech_stack_used": "Flutter, NewsAPI.org",
+      "description": "A news application that fetches real-time news categorized by topics. Integrates Riverpod for state management and WebView for full article reading. Also includes search functionality and adaptive design.",
+      "general_or_github_link": "https://github.com/NIkhilGour/News-App"
+    }
+  },
+  "achievements": {
+    "1": {
+      "description": "Achieved finalist position in Odoo Combat 2024 among 600+ teams for developing Nutrifit, a personalized diet recommendation application.",
+      "link": "https://www.linkedin.com/posts/nikhil-gour_odoocombat2024-hackathonlessons-teamcollaboration-activity-7219221805947904001-cYAZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkveFMBL2r5tsKbc9FoKFxcq_mOAkS0_HE"
+    },
+    "2": {
+      "description": "Semi-finalist in Flipkart Grid 5.0, competing in a tech challenge that involved real-world problem solving.",
+      "link": "https://unstop.com/certificate-preview/22314c2b-0d36-4f8e-8a4e-993ef9073699"
+    },
+    "3": {
+      "description": "Participated in Smart India Hackathon 2023 — worked on Ayurvan, a virtual herbal garden app, for the problem statement provided by the Ministry of Ayush.",
+      "link": "https://youtu.be/s-1JuZPoGUM?si=uxkc7kBnFUQY-s1E"
+    },
+    "4": {
+      "description": "Grand Finalist ReverseCodingX Shaastra2024 conducted by IIT Madras",
+      "link": "https://www.linkedin.com/in/nikhil-gour/details/certifications/1705399215728/single-media-viewer/?profileId=ACoAADkveFMBL2r5tsKbc9FoKFxcq_mOAkS0_HE"
+    }
+  }
+}
